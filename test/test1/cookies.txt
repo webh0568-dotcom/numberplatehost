@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.ts.mqwt-guvkh.com	TRUE	/	FALSE	1999999999	PHPSESSID	jdud5ehn9b0th7db1vq1qv6h0r
+

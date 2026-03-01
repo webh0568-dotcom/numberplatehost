@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 01 Mar 2026 10:10:21 at https://www.ts.mqwt-guvkh.com/scan.php?atQfLoFB +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.ts.mqwt-guvkh.com/scan.php?atQfLoFB -O1 "C:\Users\BoBiZ\Documents\test\test1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:10:28	Error: 	"Not Found" (404) at link https://www.ts.mqwt-guvkh.com/fonts/glyphicons-halflings-regular.eot (from https://www.ts.mqwt-guvkh.com/assets/bootstrap.min.css)
+10:10:28	Error: 	"Not Found" (404) at link https://www.ts.mqwt-guvkh.com/fonts/glyphicons-halflings-regular.eot? (from https://www.ts.mqwt-guvkh.com/assets/bootstrap.min.css)
+10:10:28	Error: 	"Not Found" (404) at link https://www.ts.mqwt-guvkh.com/fonts/glyphicons-halflings-regular.woff2 (from https://www.ts.mqwt-guvkh.com/assets/bootstrap.min.css)
+10:10:28	Error: 	"Not Found" (404) at link https://www.ts.mqwt-guvkh.com/fonts/glyphicons-halflings-regular.woff (from https://www.ts.mqwt-guvkh.com/assets/bootstrap.min.css)
+10:10:28	Error: 	"Not Found" (404) at link https://www.ts.mqwt-guvkh.com/fonts/glyphicons-halflings-regular.ttf (from https://www.ts.mqwt-guvkh.com/assets/bootstrap.min.css)
+10:10:28	Error: 	"Not Found" (404) at link https://www.ts.mqwt-guvkh.com/fonts/glyphicons-halflings-regular.svg (from https://www.ts.mqwt-guvkh.com/assets/bootstrap.min.css)
+10:10:28	Error: 	"Not Found" (404) at link https://www.ts.mqwt-guvkh.com/assets/fonts/KhmerOScontent.woff2 (from https://www.ts.mqwt-guvkh.com/assets/qr.css)
+10:10:28	Error: 	"Not Found" (404) at link https://www.ts.mqwt-guvkh.com/assets/fonts/KhmerOScontent.ttf (from https://www.ts.mqwt-guvkh.com/assets/qr.css)
+10:10:28	Error: 	"Not Found" (404) at link https://www.ts.mqwt-guvkh.com/img/line-border.png (from https://www.ts.mqwt-guvkh.com/assets/qr.css)
+10:10:28	Error: 	"Not Found" (404) at link https://www.ts.mqwt-guvkh.com/img/Excel-icon.png (from https://www.ts.mqwt-guvkh.com/assets/qr.css)
+10:10:28	Error: 	"Not Found" (404) at link https://www.ts.mqwt-guvkh.com/img/ui-icons_444444_256x240.png (from https://www.ts.mqwt-guvkh.com/assets/qr.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 seconds : 23 links scanned, 11 files written (709760 bytes overall) [548116 bytes received at 78302 bytes/sec], 261526 bytes transferred using HTTP compression in 7 files, ratio 29%, 5.7 requests per connection
+(11 errors, 0 warnings, 0 messages)
