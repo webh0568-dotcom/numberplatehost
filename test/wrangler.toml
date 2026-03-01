@@ -1,0 +1,7 @@
+name = "test-worker"
+type = "javascript"
+account_id = "e8253dfe46d10e1c2ce7e5d234e355fb"
+workers_dev = true
+
+[env.production]
+dir = "test1/www.ts.mqwt-guvkh.com"
